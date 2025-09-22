@@ -56,7 +56,10 @@ The goal was to provide decision-makers with clear insights into sales trends, p
 ---
 
 ## 📸 Dashboard Preview
-*(Insert screenshot of the dashboard here)*  
+<img width="1303" height="729" alt="image" src="https://github.com/user-attachments/assets/5444bbfc-e0c9-4db0-b4f0-524bc96ef324" />
+## 📸 ToolTip Preview
+<img width="406" height="305" alt="image" src="https://github.com/user-attachments/assets/ba4fce2e-bfe3-4073-a666-a96ed15d0acb" />
+
 
 ---
 
